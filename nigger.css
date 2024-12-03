@@ -1,0 +1,8 @@
+body {
+    background-color: #414141;
+}
+@font-face {
+    font-family: "TikTokSans-VF-v3.3";
+    src: local('TikTokSans-VF-v3.3'), 
+        url(C:\Users\tuytu\Desktop\my web/TikTokSans-VF-v3.3);
+}
